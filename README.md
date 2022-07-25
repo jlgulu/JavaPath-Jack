@@ -6,7 +6,7 @@
 >
 > 【Java小白->大神】学习路线  ——by Jack
 
-**先放上Java学习总体的思维导图**（https://www.processon.com/view/link/62d7967f6376893785aae827）：
+**先放上Java学习总体的思维导图**（https://www.processon.com/view/link/62d7967f6376893785aae827）
 
 ![Java学习路线](http://assets.processon.com/chart_image/62d646e01e08531cf8d9fe36.png)
 
