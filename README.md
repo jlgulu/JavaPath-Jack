@@ -1,4 +1,3 @@
-@@ -0,0 +1,493 @@
 # 【Java小白->大神】学习路线
 > 持续更新中>>>
 >
@@ -6,7 +5,8 @@
 >
 > 【Java小白->大神】学习路线  ——by Jack
 
-**先放上Java学习总体的思维导图**——[https://www.processon.com/view/link/62d7967f6376893785aae827](https://www.processon.com/embed/62d646e01e08531cf8d9fe33)
+**先放上Java学习总体的思维导图**（https://www.processon.com/view/link/62d7967f6376893785aae827）：
+
 ![Java学习路线](http://assets.processon.com/chart_image/62d646e01e08531cf8d9fe36.png)
 
 
@@ -116,6 +116,9 @@ Java基础面试题：[(https://juejin.cn/post/6844904127059738631)](https://lee
 
 【**电子书】下载链接：**
 
+链接：https://pan.baidu.com/s/19GRuLsAjb1c90yqtgdA0Dw?pwd=siki 
+提取码：siki 
+
 【**纸质书】下载链接：**[http://product.dangdang.com/28522531.html](http://product.dangdang.com/28522531.html)
 
 ![preview](https://pic2.zhimg.com/v2-4722b7514dba30d437fa4ebb57498bb5_r.jpg?source=1940ef5c)
@@ -125,6 +128,9 @@ Java基础面试题：[(https://juejin.cn/post/6844904127059738631)](https://lee
 *豆瓣9.3高分优秀书籍，这本书MySQL的经典*
 
 【**电子书】下载链接：**
+
+链接：https://pan.baidu.com/s/1XpPDLo-0pPOzb4RBugNmDQ?pwd=siki 
+提取码：siki 
 
 【**纸质书】下载链接：**[http://product.dangdang.com/29227172.html](http://product.dangdang.com/29227172.html)
 
@@ -191,9 +197,12 @@ JDBC常见面试题：[https://zhuanlan.zhihu.com/p/33895138](https://zhuanlan.z
 
 *这本书适合有一定编程经验的人，当然，初学者也可以买来学习，它是JavaScript程序员必读的一本书*
 
-【**电子书】下载链接：**
+【**电子书】下载链接**：
 
-【**纸质书】下载链接：**[https://product.dangdang.com/11163420580.html ](https://product.dangdang.com/11163420580.html)
+链接：https://pan.baidu.com/s/1SX7fUWw5DIXH6Ve21UVdGA?pwd=siki 
+提取码：siki
+
+【**纸质书】下载链接**：[https://product.dangdang.com/11163420580.html ](https://product.dangdang.com/11163420580.html)
 
 ![preview](https://pic2.zhimg.com/v2-a048f5fe2c0349fcdebbfa3bdf8b4e26_r.jpg?source=1940ef5c)
 
@@ -258,7 +267,7 @@ JavaScript高频面试题（下篇）：[https://juejin.cn/post/6941194115392634
 
 ### 阶段五：开发工具
 
-> Git——版本控制工具      Maven——项目构建工具       Linux——服务器构建系统
+> Git——版本控制工具      svn——版本控制系统     Maven——项目构建工具       Linux——服务器构建系统
 
 #### 相关资源
 
@@ -266,11 +275,11 @@ JavaScript高频面试题（下篇）：[https://juejin.cn/post/6941194115392634
 
 【**Git**】 菜鸟教程:[https://www.runoob.com/git/git-tutorial.html](https://www.runoob.com/git/git-tutorial.html)
 
-【**SVN**】 教程:[https://www.runoob.com/svn/svn-tutorial.html](https://www.runoob.com/svn/svn-tutorial.html)
+【**SVN**】 菜鸟教程:[https://www.runoob.com/svn/svn-tutorial.html](https://www.runoob.com/svn/svn-tutorial.html)
 
-【**Maven**】 教程:[https://www.runoob.com/maven/maven-tutorial.html](https://www.runoob.com/maven/maven-tutorial.html)
+【**Maven**】菜鸟教程:[https://www.runoob.com/maven/maven-tutorial.html](https://www.runoob.com/maven/maven-tutorial.html)
 
-【**Linux**】教程：[https://www.runoob.com/linux/linux-tutorial.html](https://www.runoob.com/linux/linux-tutorial.html)
+【**Linux**】菜鸟教程：[https://www.runoob.com/linux/linux-tutorial.html](https://www.runoob.com/linux/linux-tutorial.html)
 
 ##### 视频教程
 
@@ -280,7 +289,7 @@ JavaScript高频面试题（下篇）：[https://juejin.cn/post/6941194115392634
 
 【**尚硅谷**】2022版Maven教程：[https://www.bilibili.com/video/BV12q4y147e4](https://www.bilibili.com/video/BV12q4y147e4?spm_id_from=333.337.search-card.all.click&vd_source=c73fd227212a29e69099e773cf7a68c8)
 
-Linux：https://www.bilibili.com/video/BV16Q4y1y7xS?spm_id_from=333.337.search-card.all.click
+【**乐字节**】Linux：https://www.bilibili.com/video/BV16Q4y1y7xS
 
 ##### 文章推荐
 
@@ -345,15 +354,15 @@ SSM常用面试题60道：[https://zhuanlan.zhihu.com/p/140394330](https://zhuan
 
 ##### 文档教程
 
-Spring Cloud教程：[http://c.biancheng.net/springcloud/](http://c.biancheng.net/springcloud/)
+【**Spring Cloud**】教程：[http://c.biancheng.net/springcloud/](http://c.biancheng.net/springcloud/)
 
-RabbitMQ 教程：[https://www.hxstrive.com/subject/rabbitmq.htm](https://www.hxstrive.com/subject/rabbitmq.htm)
+【**RabbitMQ** 】教程：[https://www.hxstrive.com/subject/rabbitmq.htm](https://www.hxstrive.com/subject/rabbitmq.htm)
 
-Docker 教程：[https://www.runoob.com/docker/docker-tutorial.html](https://www.runoob.com/docker/docker-tutorial.html)
+【**Docker** 】教程：[https://www.runoob.com/docker/docker-tutorial.html](https://www.runoob.com/docker/docker-tutorial.html)
 
-Redis教程：[https://www.runoob.com/redis/redis-tutorial.html](https://www.runoob.com/redis/redis-tutorial.html)
+【**Redis**】教程：[https://www.runoob.com/redis/redis-tutorial.html](https://www.runoob.com/redis/redis-tutorial.html)
 
-Elasticsearch 教程：[https://www.cainiaojc.com/elasticsearch/elasticsearch-tutorial.html](https://www.cainiaojc.com/elasticsearch/elasticsearch-tutorial.html)
+【**Elasticsearch** 】教程：[https://www.cainiaojc.com/elasticsearch/elasticsearch-tutorial.html](https://www.cainiaojc.com/elasticsearch/elasticsearch-tutorial.html)
 
 ##### 视频教程
 
@@ -379,6 +388,9 @@ Elasticsearch 教程：[https://www.cainiaojc.com/elasticsearch/elasticsearch-tu
 
 【**电子书】下载链接：**
 
+链接：https://pan.baidu.com/s/1yKV6u1vPgxfvK3_Ch89gkw?pwd=siki 
+提取码：siki 
+
 【**纸质书】下载链接：**[http://product.dangdang.com/27860466.html](http://product.dangdang.com/27860466.html)
 
 ![image-20220720120442552](C:\Users\Ayanokouji\AppData\Roaming\Typora\typora-user-images\image-20220720120442552.png)
@@ -390,6 +402,9 @@ Elasticsearch 教程：[https://www.cainiaojc.com/elasticsearch/elasticsearch-tu
 *这一本书从架构视角讲解如何构建大型分布式系统，豆瓣9.2高分优秀书籍*
 
 【**电子书】下载链接：**
+
+链接：https://pan.baidu.com/s/1qxiZWMafgGFdWY67sj8SQg?pwd=siki 
+提取码：siki 
 
 【**纸质书】下载链接：**[http://product.dangdang.com/29265341.html](http://product.dangdang.com/29265341.html)
 
