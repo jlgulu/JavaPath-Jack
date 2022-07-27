@@ -1,7 +1,7 @@
 # 【Java小白->大神】学习路线
 > 持续更新中>>>
 >
-> 当前版本2.0（最近更新：2022.7.25）
+> 当前版本2.2（最近更新：2022.7.27）
 >
 > 【Java小白->大神】学习路线  ——by Jack
 
@@ -57,6 +57,9 @@ Java基础知识点总结归纳：[https://blog.csdn.net/qq_41701956/article/det
 
 【**电子书】下载链接：**
 
+链接：https://pan.baidu.com/s/1uD0xwaU0IZhblN4wE0iOzw?pwd=siki 
+提取码：siki 
+
 【**纸质书】当当链接**：[https://product.dangdang.com/9265169.html](https://product.dangdang.com/9265169.html)
 
 ![image-20220719165635362](C:\Users\Ayanokouji\AppData\Roaming\Typora\typora-user-images\image-20220719165635362.png)
@@ -68,6 +71,10 @@ Java基础知识点总结归纳：[https://blog.csdn.net/qq_41701956/article/det
 *豆瓣评分9.0高分书籍，这本书我觉得学Java的人都需要看一下，它能教授你眼前一亮的编程概念，帮你更加有效地使用Java编程语言及其基本类库*
 
 【**电子书】下载链接：**
+
+链接：https://pan.baidu.com/s/1k5vLqNqBd-YQ5jHsrH0v7g?pwd=siki 
+
+提取码：siki 
 
 【**纸质书】下载链接：**[https://product.dangdang.com/26437835.html](https://product.dangdang.com/26437835.html)
 
