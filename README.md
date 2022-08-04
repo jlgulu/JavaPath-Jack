@@ -9,7 +9,7 @@
 
 **先放上Java学习总体的思维导图** ：
 
-![ ](https://github.com/jlgulu/JavaPath-Jack/blob/main/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.jpg)
+![Java学习路线.jpg](https://s2.loli.net/2022/08/04/CL7GwOZ1EuiqI9s.png)
 
 
 
@@ -64,7 +64,7 @@ Java基础知识点总结归纳：[https://blog.csdn.net/qq_41701956/article/det
 
 **》》*【纸质书】当当链接：***[https://product.dangdang.com/9265169.html](https://product.dangdang.com/9265169.html)
 
-![1.png](https://github.com/jlgulu/JavaPath-Jack/blob/main/1.png)
+![1.png](https://s2.loli.net/2022/08/04/8SwhkoKT9faO45B.png)
 
 
 
@@ -143,7 +143,9 @@ Java基础面试题：[(https://juejin.cn/post/6844904127059738631)](https://lee
 
 **》》*【纸质书】链接：***[http://product.dangdang.com/29227172.html](http://product.dangdang.com/29227172.html)
 
-![2.png)](https://github.com/jlgulu/JavaPath-Jack/blob/main/2.png)
+##### ![2.png](https://s2.loli.net/2022/08/04/FZJ2lyiHDLWEU95.png)
+
+
 
 ##### 面试题
 
@@ -399,9 +401,7 @@ SSM常用面试题60道：[https://zhuanlan.zhihu.com/p/140394330](https://zhuan
 
 **》》*【纸质书】链接*：**[http://product.dangdang.com/27860466.html](http://product.dangdang.com/27860466.html)
 
-![3.png](https://github.com/jlgulu/JavaPath-Jack/blob/main/3.png)
-
-
+![3.png](https://s2.loli.net/2022/08/04/vf9K2tZ7soJaUX1.png)
 
 **《凤凰架构：构建可靠的大型分布式系统》**
 
@@ -414,7 +414,7 @@ SSM常用面试题60道：[https://zhuanlan.zhihu.com/p/140394330](https://zhuan
 
 **》》*【纸质书】链接：***[http://product.dangdang.com/29265341.html](http://product.dangdang.com/29265341.html)
 
-![4.png](https://github.com/jlgulu/JavaPath-Jack/blob/main/4.png)
+![4.png](https://s2.loli.net/2022/08/04/deC9lOZTtpc6soF.png)
 
 
 
