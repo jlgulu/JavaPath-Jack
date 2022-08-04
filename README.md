@@ -64,7 +64,7 @@ Java基础知识点总结归纳：[https://blog.csdn.net/qq_41701956/article/det
 
 **》》*【纸质书】当当链接：***[https://product.dangdang.com/9265169.html](https://product.dangdang.com/9265169.html)
 
-![image-20220719165635362](C:\Users\Ayanokouji\AppData\Roaming\Typora\typora-user-images\image-20220719165635362.png)
+![1.png](https://github.com/jlgulu/JavaPath-Jack/blob/main/1.png)
 
 
 
@@ -143,7 +143,7 @@ Java基础面试题：[(https://juejin.cn/post/6844904127059738631)](https://lee
 
 **》》*【纸质书】链接：***[http://product.dangdang.com/29227172.html](http://product.dangdang.com/29227172.html)
 
-![image-20220725163053950](C:\Users\Ayanokouji\AppData\Roaming\Typora\typora-user-images\image-20220725163053950.png)
+![2.png)](https://github.com/jlgulu/JavaPath-Jack/blob/main/2.png)
 
 ##### 面试题
 
@@ -399,7 +399,7 @@ SSM常用面试题60道：[https://zhuanlan.zhihu.com/p/140394330](https://zhuan
 
 **》》*【纸质书】链接*：**[http://product.dangdang.com/27860466.html](http://product.dangdang.com/27860466.html)
 
-![image-20220720120442552](C:\Users\Ayanokouji\AppData\Roaming\Typora\typora-user-images\image-20220720120442552.png)
+![3.png](https://github.com/jlgulu/JavaPath-Jack/blob/main/3.png)
 
 
 
@@ -414,7 +414,7 @@ SSM常用面试题60道：[https://zhuanlan.zhihu.com/p/140394330](https://zhuan
 
 **》》*【纸质书】链接：***[http://product.dangdang.com/29265341.html](http://product.dangdang.com/29265341.html)
 
-![image-20220720120516117](C:\Users\Ayanokouji\AppData\Roaming\Typora\typora-user-images\image-20220720120516117.png)、
+![4.png](https://github.com/jlgulu/JavaPath-Jack/blob/main/4.png)
 
 
 
