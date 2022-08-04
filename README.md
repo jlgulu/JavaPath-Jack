@@ -1,15 +1,15 @@
 # Java小白->大神学习路线
 > 持续更新中>>>
 >
-> 当前版本2.4
+> 当前版本2.6
 >
-> （最近更新：2022.7.31）
+> （最近更新：2022.8.4）
 >
 > 作者：Jack
 
 **先放上Java学习总体的思维导图** ：
 
-![ ](D:\Github\JavaPath-Jack\Java学习路线.jpg)
+![ ](https://github.com/jlgulu/JavaPath-Jack/blob/main/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.jpg)
 
 
 
