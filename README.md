@@ -1,9 +1,9 @@
 # Java小白->大神学习路线
 > 持续更新中>>>
 >
-> 当前版本2.6
+> 当前版本2.8
 >
-> （最近更新：2022.8.4）
+> （最近更新：2022.8.10）
 >
 > 作者：Jack
 
@@ -53,7 +53,7 @@ Java基础知识点总结归纳：[https://blog.csdn.net/qq_41701956/article/det
 
 ##### 书籍推荐
 
-**《Head First Java（中文版）》**
+**【推荐一】《Head First Java（中文版）》**
 
 *豆瓣评分8.6高分书籍，这本书利用图文结合的方式来将原本枯燥的代码以图片的形式来讲述，且其中配置了大量的代码练习，结合上面推荐的教学视频，通过学习和大量敲代码的练习更容易掌握对应知识点*
 
@@ -68,7 +68,7 @@ Java基础知识点总结归纳：[https://blog.csdn.net/qq_41701956/article/det
 
 
 
-**《Effective Java中文版（原书第3版）》**
+**【推荐二】《Effective Java中文版（原书第3版）》**
 
 *豆瓣评分9.0高分书籍，这本书我觉得学Java的人都需要看一下，它能教授你眼前一亮的编程概念，帮你更加有效地使用Java编程语言及其基本类库*
 
@@ -119,7 +119,7 @@ Java基础面试题：[(https://juejin.cn/post/6844904127059738631)](https://lee
 
 ##### 书籍推荐
 
-**《MySQL必知必会》**
+**【推荐一】《MySQL必知必会》**
 
 *豆瓣8.4高分书籍，这一本书适合零基础的学习者，它里面知识的内容讲的比较通俗易懂，由浅入深，让你能透彻地理解SQL的基础概念与语法*
 
@@ -132,7 +132,7 @@ Java基础面试题：[(https://juejin.cn/post/6844904127059738631)](https://lee
 
 ![preview](https://pic2.zhimg.com/v2-4722b7514dba30d437fa4ebb57498bb5_r.jpg?source=1940ef5c)
 
-**《高性能MySQL（第3版）》**
+**【推荐二】《高性能MySQL（第3版）》**
 
 *豆瓣9.3高分优秀书籍，这本书MySQL的经典*
 
@@ -390,7 +390,7 @@ SSM常用面试题60道：[https://zhuanlan.zhihu.com/p/140394330](https://zhuan
 
 ##### 书籍推荐
 
-**《微服务架构设计模式》**
+**【推荐一】《微服务架构设计模式》**
 
 *这一本书教会你如何开发和部署生产级别的微服务架构应用，豆瓣9.1高分优秀书籍*
 
@@ -403,7 +403,7 @@ SSM常用面试题60道：[https://zhuanlan.zhihu.com/p/140394330](https://zhuan
 
 ![3.png](https://s2.loli.net/2022/08/04/vf9K2tZ7soJaUX1.png)
 
-**《凤凰架构：构建可靠的大型分布式系统》**
+**【推荐二】《凤凰架构：构建可靠的大型分布式系统》**
 
 *这一本书从架构视角讲解如何构建大型分布式系统，豆瓣9.2高分优秀书籍*
 
@@ -459,25 +459,73 @@ Elasticsearchs面试题：[https://juejin.cn/post/6958408979235995655/](https://
 
 ##### GitHub优质开源项目分享
 
-【**人力资源管理系统**】：https://github.com/lenve/vhr
+**1.**【**人力资源管理系统**】
 
-【**云收藏 Spring Boot 2.X**】：https://github.com/cloudfavorites/favorites-web
+*用于企业人力的管理，不同的用户登录所看到的页面各不相同*
 
-【**V 部落**】：https://github.com/lenve/VBlog
+仓库文件：https://github.com/lenve/vhr
 
-【**考试系统**】：https://gitee.com/mindskip/uexam
+视频教程：[https://mp.weixin.qq.com/s/dcJv6BIVFPnokI8nBf4IrQ](https://mp.weixin.qq.com/s/dcJv6BIVFPnokI8nBf4IrQ)
 
-【**电商系统**】：https://github.com/macrozheng/mall
+**2.**【**云收藏 Spring Boot 2.X**】
 
-【**微服务商城系统**】：https://github.com/macrozheng/mall-swarm
+*用户在线随时随地收藏的一个网站，在网站上分类整理收藏的网站或者文章，可以作为稍后阅读的一个临时存放*
 
-【**新蜂商城**】：https://github.com/newbee-ltd/newbee-mall
+仓库文件：https://github.com/cloudfavorites/favorites-web
 
-【**后台管理系统**】：https://github.com/wxiaoqi/Spring-Cloud-Platform
+文档教程：[https://github.com/cloudfavorites/favorites-web/wiki](https://github.com/cloudfavorites/favorites-web/wiki)
 
-【**权限管理系统**】：https://gitee.com/log4j/pig
+**3.**【**V 部落**】
 
-【**eladmin**】：https://github.com/elunez/eladmin
+*多用户的博客管理平台*
+
+仓库文件：https://github.com/lenve/VBlog
+
+**4.**【 **学之思开源考试系统**】
+
+*包含了学生对于自己的任务、消息、考试的查收与练习，管理员可以布置任务、考试，修改、删除学生信息等*
+
+码云文件：https://gitee.com/mindskip/uexam
+
+视频教程：https://ke.qq.com/course/3614230#term_id=103758206
+
+**5.**【**电商系统**】
+
+*一套完整的前后台电商管理系统*
+
+仓库文件：https://github.com/macrozheng/mall
+
+文档教程：[https://www.macrozheng.com/](https://www.macrozheng.com/)
+
+**6.**【**微服务商城系统**】
+
+*在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能*
+
+仓库文件：https://github.com/macrozheng/mall-swarm
+
+**7.**【**新蜂商城**】
+
+*包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，前后台各自包括多个功能模块*
+
+仓库文件：https://github.com/newbee-ltd/newbee-mall
+
+视频教程：https://download.csdn.net/learn/26258
+
+**8.**【**后台管理系统**】
+
+*国内首个Spring Cloud微服务化RBAC的管理平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API 管理等多个模块*
+
+仓库地址：https://github.com/wxiaoqi/Spring-Cloud-Platform
+
+文档教程：https://gitee.com/geek_qi/cloud-platform/blob/master/dev-doc.md#cloud-platform
+
+**9.**【**eladmin**】
+
+*前后端分离的后台管理系统*
+
+仓库地址：https://github.com/elunez/eladmin
+
+文档教程：https://eladmin.vip
 
 
 
@@ -494,11 +542,23 @@ Elasticsearchs面试题：[https://juejin.cn/post/6958408979235995655/](https://
 
 ##### 文章推荐
 
-【**推荐1**】斩获 20+ 大厂 offer 的面试经验分享：https://mp.weixin.qq.com/s/HXKg6-H0kGUU2OA1DS43Bw
+**1.简历书写**
 
-【**推荐2**】从面试官的角度看面试：https://www.cnblogs.com/lovesqcc/p/15169365.html
+Java程序员简历模板：https://github.com/geekcompany/ResumeSample/blob/master/java.md
 
-【**推荐3**】普通人的春招：https://www.nowcoder.com/discuss/640519
+Java面试个人简历：https://blog.csdn.net/qq_38225558/article/details/89489727
+
+**2.面试经验**
+
+斩获 20+ 大厂 offer 的面试经验分享：https://mp.weixin.qq.com/s/HXKg6-H0kGUU2OA1DS43Bw
+
+从面试官的角度看面试：https://www.cnblogs.com/lovesqcc/p/15169365.html
+
+普通人的春招：https://www.nowcoder.com/discuss/640519
+
+**3.就业指导**
+
+Java开发工程师就业指导：https://www.cnblogs.com/justdoitba/articles/8067895.html
 
 ##### 网盘面试就业相关文件分享（pdf）
 
