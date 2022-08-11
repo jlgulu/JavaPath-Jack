@@ -1,22 +1,22 @@
 # Java小白->大神学习路线
+
 > 持续更新中>>>
 >
-> 当前版本2.8
+> 当前版本2.9
 >
-> （最近更新：2022.8.10）
+> （最近更新：2022.8.11）
 >
 > 作者：Jack
 
 **先放上Java学习总体的思维导图** ：
 
-![Java学习路线.jpg](https://s2.loli.net/2022/08/04/CL7GwOZ1EuiqI9s.png)
+![Java学习路线.png](https://s2.loli.net/2022/08/11/MLEwq8mIZKOHd76.png)
 
 
 
 ### 学习前准备·
 
 > 准备开发工具，这里推荐IDEA（全称 IntelliJ IDEA），首先安装好IDEA，并配置好环境，然后可以熟悉一下IDEA的快捷键操作和相关设置等
->
 
 IDEA官网：[https://www.jetbrains.com/zh-cn/idea/](https://www.jetbrains.com/zh-cn/idea/)
 
@@ -29,7 +29,6 @@ IDEA官方快速上手教程：[https://www.jetbrains.com/zh-cn/idea/resources/]
 ### 阶段一：Java 基础
 
 > 通过本阶段的学习，初步认识Java相关的语法以及一些基础知识，学会编译一些简单的程序
->
 
 #### 相关资源
 
@@ -91,7 +90,6 @@ Java基础面试题：[(https://juejin.cn/post/6844904127059738631)](https://lee
 ### 阶段二：数据库
 
 > 当下大部分企业都是用关系数据库来储存数据，其中最具代表性的就是MySQL
->
 
 #### 相关资源
 
@@ -158,7 +156,6 @@ JDBC常见面试题：[https://zhuanlan.zhihu.com/p/33895138](https://zhuanlan.z
 ### 阶段三：Web前端
 
 > 前端这一块重点掌握HTML+CSS+JavaScript+Vue就可以了，其他的可以了解一下。
->
 
 #### 相关资源
 
@@ -308,7 +305,6 @@ Maven面试题：[https://blog.csdn.net/a303549861/article/details/93752178](htt
 ### 阶段五：Java web主流框架
 
 > 完善的框架使Java成为一门主流的语言，用好框架能大大提升开发的效率，目前主流的框架有SSM框架和Spring boot框架
->
 
 #### 相关资源
 
@@ -435,7 +431,6 @@ Elasticsearchs面试题：[https://juejin.cn/post/6958408979235995655/](https://
 ### 阶段七：项目实战
 
 > 通过以上知识的学习，相信你对Java这门已经有了一定的理解，现在可以开始结合知识做项目了，可以先跟着视频模仿，后面再去看我所分享的开源的项目深入学习
->
 
 #### 相关资源
 
@@ -467,7 +462,7 @@ Elasticsearchs面试题：[https://juejin.cn/post/6958408979235995655/](https://
 
 视频教程：[https://mp.weixin.qq.com/s/dcJv6BIVFPnokI8nBf4IrQ](https://mp.weixin.qq.com/s/dcJv6BIVFPnokI8nBf4IrQ)
 
-**2.**【**云收藏 Spring Boot 2.X**】
+**2.**【**云收藏 **】
 
 *用户在线随时随地收藏的一个网站，在网站上分类整理收藏的网站或者文章，可以作为稍后阅读的一个临时存放*
 
@@ -532,7 +527,6 @@ Elasticsearchs面试题：[https://juejin.cn/post/6958408979235995655/](https://
 ### 阶段八：面试就业
 
 > 面试的相关经验技巧，了解面试究竟考什么方面、该怎么应对面试
->
 
 ##### 视频教程
 
