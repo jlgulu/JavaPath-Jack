@@ -2,9 +2,9 @@
 
 > 持续更新中>>>
 >
-> 当前版本3.0
+> 当前版本3.1
 >
-> （最近更新：2022.8.18）
+> （最近更新：2022.8.20）
 >
 > 作者：Jack
 
@@ -48,7 +48,7 @@ IDEA官方快速上手教程：[https://www.jetbrains.com/zh-cn/idea/resources/]
 
 ##### 文章推荐
 
-Java基础知识点总结归纳：[https://blog.csdn.net/qq_41701956/article/details/116375749](https://blog.csdn.net/qq_41701956/article/details/116375749)
+Java基础知识点总结归纳：[https://blog.csdn.net/qq_41701956/article/details/116375749
 
 ##### 书籍推荐
 
@@ -538,23 +538,23 @@ Elasticsearchs面试题：[https://juejin.cn/post/6958408979235995655/](https://
 
 **1.简历书写**
 
-Java程序员简历模板：https://github.com/geekcompany/ResumeSample/blob/master/java.md
+【**推荐1**】Java程序员简历模板：https://github.com/geekcompany/ResumeSample/blob/master/java.md
 
-Java面试个人简历：https://blog.csdn.net/qq_38225558/article/details/89489727
+【**推荐2**】Java面试个人简历：https://blog.csdn.net/qq_38225558/article/details/89489727
 
 **2.面试经验**
 
-斩获 20+ 大厂 offer 的面试经验分享：https://mp.weixin.qq.com/s/HXKg6-H0kGUU2OA1DS43Bw
+【**推荐1**】斩获 20+ 大厂 offer 的面试经验分享：https://mp.weixin.qq.com/s/HXKg6-H0kGUU2OA1DS43Bw
 
-从面试官的角度看面试：https://www.cnblogs.com/lovesqcc/p/15169365.html
+【**推荐2**】从面试官的角度看面试：https://www.cnblogs.com/lovesqcc/p/15169365.html
 
-普通人的春招：https://www.nowcoder.com/discuss/640519
+【**推荐3**】普通人的春招：https://www.nowcoder.com/discuss/640519
 
 **3.就业指导**
 
 Java开发工程师就业指导：https://www.cnblogs.com/justdoitba/articles/8067895.html
 
-##### 网盘面试就业相关文件分享（pdf）
+##### 网盘面试就业相关文件分享
 
 **想要pdf版的小伙伴可以自行下载*（包含面试题、简历模板等）
 
